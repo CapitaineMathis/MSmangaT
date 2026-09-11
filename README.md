@@ -13,6 +13,7 @@ Mille Sabords est une fausse boutique en ligne de mangas développée en PHP. Le
 - Interface d'administration pour les mangas et les commandes
 - Paiement Stripe prévu dans l'application
 
+
 ## Technologies
 
 - PHP
