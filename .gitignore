@@ -1,0 +1,15 @@
+.document/
+
+.idea/
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+*.key
+*.pem
+.env
+.env.*
+!.env.example
+
+*.log
